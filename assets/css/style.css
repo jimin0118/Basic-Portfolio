@@ -117,43 +117,34 @@ footer {
 	}
 
 #Portfoliobox1 {
-    position: absolute;
     width: 270px;
     height: 190px;
-    top: 260px;
-    left: 185px;
+    margin: 2% 2% 0 5% 
 }
 
 #Portfoliobox2 {
-    position: absolute;
     width: 270px;
     height: 190px;
-    top: 260px;
-    left: 495px;	
+    margin: 2% 2% 0 5% 
 }
 
+
 #Portfoliobox3 {
-    position: absolute;
     width: 270px;
     height: 190px;
-    top: 490px;
-    left: 185px;
+    margin: 2% 2% 0 5% 
 }
 
 #Portfoliobox4 {
-    position: absolute;
     width: 270px;
     height: 190px;
-    top: 490px;
-    left: 495px;
+    margin: 2% 2% 0 5%; 
 }
 
 #Portfoliobox5 {
-    position: absolute;
     width: 270px;
     height: 190px;
-    top: 720px;
-    left: 185px;
+    margin: 2% 2% 0 5%; 
 }
 
 .Portfoliobox_title1, 
@@ -174,28 +165,28 @@ footer {
 }
 
 .Portfoliobox_title1 {
-    top: 390px;
-    left: 135px;
+    top: 365px;
+    left: 134px;
 }
 
 .Portfoliobox_title2 {
-    top: 390px;
-    left: 445px;
+    top: 365px;
+    left: 453px;
 }
 
 .Portfoliobox_title3 {
-    top: 620px;
-    left: 135px;
+    top: 570px;
+    left: 134px;
 }
 
 .Portfoliobox_title4 {
-    top: 620px;
-    left: 445px;
+    top: 570px;
+    left: 453px;
 }
 
 .Portfoliobox_title5 {
-    top: 850px;
-    left: 135px;
+    top: 770px;
+    left: 134px;
     margin-bottom: 100px;
 }
 
